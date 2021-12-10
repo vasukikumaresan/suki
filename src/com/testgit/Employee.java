@@ -7,6 +7,10 @@ public class Employee {
 		public void quit() {
 			System.out.println("15 Lakhs per annum");
 		}
+
+		
+		
+		
 		
 		public void close() {
 			System.out.println("print all git bash");
